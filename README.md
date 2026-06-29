@@ -1,16 +1,23 @@
-## Hi 👋 I'm Jun Wei!
+## Hi 👋 I'm Jun Wei
 
-<!--
-**awpbash/awpbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSBA student @ NUS focused on **multimodal AI**, **data systems**, and **agentic workflows**.
 
-Here are some ideas to get you started:
+### 🧠 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vision-language models
+- Cloud-native AI systems  
+- AI for public good
+
+### ⚙️ Currently Building
+
+- Fine-grained GraphRAG for enterprise engineering knowledge (high-fidelity evidence grounding)
+- Open-vocabulary document understanding and retrieval systems
+- Enforceable policy-as-code frameworks
+
+### 🧩 Outside of Code
+
+- F1  
+- League of Legends  
+- Gym  
+- Hackathons
+- Cooking & Baking!!
